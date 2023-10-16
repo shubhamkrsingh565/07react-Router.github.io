@@ -1,0 +1,33 @@
+body {
+  padding: auto;
+  margin: 80px;
+  text-align: center;
+}
+
+h1 {
+  color: burlywood;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 48px;
+  letter-spacing: 10px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+h2 {
+  color: brown;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+h3 {
+  color: brown;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+p {
+  color: grey;
+  font-family: Verdana, sans-serif;
+}
+
+#fixed {
+  position: relative;
+}
